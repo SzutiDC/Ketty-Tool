@@ -1,4 +1,7 @@
 # Ketty-Tool
+A Tool That has These Options:
+1. email:pass formater
+2. Nitro Generator (ALMOST IMPOSSIBLE TO GET A CODE)
 
 # How To Use
 1. Pip install colorama
